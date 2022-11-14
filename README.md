@@ -1,11 +1,5 @@
--Olá, meu nome é Thiago Izzo.
-Eu estou estudando para me tornar um fullstack.
--Minha paixão por programação sempre esteve comigo, porém somente a pouco tempo tive coragem de realmente começar meus estudos.
--No momento estou estudando linguagens como, Python, Css, Java, C++ e coisas do gênero.
--Ainda em busca de experiência para meu primeiro emprego como programador, e ainda sonhando em conseguir chegar no meu primeiro emprego como Game Dev.
-
--Sobre mim.
--Me nome é Thiago Izzo, tenho 21 anos e sempre fui apaixonado por tecnologia.
-Já trabalhei com hardware, conserto de computadores e coisas do tipo
-porém sempre quis ser programador.
-Estou dando meus primeiros passos para começar minha vida de desenvolvedor.
+Olá, meu nome é Thiago Izzo, tenho 21 anos e estou começando na área de programação.
+ Sempre fui apaixonado por tecnologia, porém somente a pouco tempo tive coragem de começar realmente meus estudos.
+Estou estudando linguagens como, Css, JavaScript, Java, C++ e coisas do gênero. Planejo me tornar um fullstack e futuramente poder trabalhar como GameDev.
+Ainda tenho um bom caminho para percorrer e adquirir experiência mas isso não é algo que me desanima, muito pelo contrário, saber que sempre terei algo novo para estudar significa que estarei sempre caminhando para me tornar um melhor Dev.
+ Considero como um jogo competitivo onde sempre posso melhorar e sempre tenho como subir mais e mais o meu Rank/Elo.
